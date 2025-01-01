@@ -15,16 +15,16 @@ body {
 .body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(90deg, #99b9ff, #5f2c82);
-    height: 98%;
-    width: 98%;
+    height: 98.5%;
+    width: 98.5%;
     display: flex;
-    border-radius: 30px;
+    border-radius: 25px;
     align-items: center;
     justify-content: center;
 }
 
 .account {
-    width: 65vw;
+    width: 70vw;
     height: 75vh;
     display: flex;
     background-color: white;
@@ -115,6 +115,7 @@ hr{
 
 .btns p{
     color: gray ;
+    cursor: pointer;
 }
 
 .btns .btn{
